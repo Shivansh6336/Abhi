@@ -5,4 +5,4 @@ import pandas as pd
 
 print("Hello")
 # Load as a dataframe
-df_iris = data('iris')
+print(data())
